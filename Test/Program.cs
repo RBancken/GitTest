@@ -10,6 +10,8 @@ namespace Test
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Dit is een test voor Git");
+            Console.WriteLine("Aanpassing 1");
         }
     }
 }
