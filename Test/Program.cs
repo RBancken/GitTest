@@ -12,6 +12,9 @@ namespace Test
         {
             Console.WriteLine("Dit is een test voor Git");
             Console.WriteLine("Aanpassing 1");
+
+            Console.WriteLine("Aanpassing 2");
+
         }
     }
 }
